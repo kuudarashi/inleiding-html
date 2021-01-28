@@ -1,0 +1,38 @@
+body{
+margin: auto;
+}
+
+nav {
+
+    background-color: black;
+    color: white;
+    width: 1198px;
+    padding: 1px;
+}
+nav ul li {
+
+    display: inline-block;
+    padding-right: 5px;
+    margin: 0;
+
+}
+li {
+border-right: 1px solid white;
+}
+table{
+
+    border-collapse: collapse;
+    width: 600px;
+    height: 300px;
+
+    margin-bottom: auto;
+}
+table,td,tr {
+    border: 1px solid black;
+}
+div#invaded{
+    float: left;
+    display: inline-block;
+    width: 600px;
+}
+img{ display: block;}

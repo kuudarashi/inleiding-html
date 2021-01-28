@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="formulier.css">
+    <meta charset="UTF-8">
+    <title>formulier</title>
+</head>
+<body>
+<h3><b>voorbeeldformulier</b></h3>
+
+<form action="http://www.savatarian.com/html5/form.php" method="get">
+    <section class="q">
+<div class="fg">
+    <label for="voornaam">Voornaam:</label>
+    <input class="k" type="text" name="voornaam" id="voornaam">
+</div>
+    <div class="fg">
+        <label for="tusssenvoegsel">tussenvoegsel:</label>
+        <input  class="k" type="text" name="toesenvoegsel" id="tusssenvoegsel">
+    </div>
+    <div class="fg">
+        <label for="achternaam">Achternaam:</label>
+        <input class="k" type="text" name="achternaam" id="achternaam">
+    </div>
+    <div class="fg">
+        <label class="radio"> geslacht:</label>
+    <div class="radio">
+
+    <input class="radio" type="radio" name="geslacht" value="man">
+    &nbsp;Man
+    <input class="radio" type="radio" name="gelacht" value="vrouw">
+        &nbsp;Vrouw
+    </div>
+    </div>
+
+    <div class="fg">
+        <label for="kleur">Kleur ogen:</label>
+        <select name="kleur-ogen" id="kleur">
+            <option>Groen</option>
+            <option>Blauw</option>
+            <option>Bruin</option>
+        </select>
+    </div>
+    <div class="fg">
+        <label for="birth">geboorte datum:</label>
+        <input type="date" id="birth" name="geboorte datum">
+    </div>
+    <div id="txt">
+        <label for="omschrijving">Omschrijving:</label>
+        <textarea name="omschrijving" id="omschrijving" cols="32" rows="7" spellcheck="false" style="margin: 0px;"></textarea>
+    </div>
+    <input type="submit" value="OK">
+    <input type="reset" value="Annuleer">
+</section>
+    <section class="x">
+        <label>Lekker eten:</label>
+        <div class="radio">
+
+        <input type="checkbox" id="e" name="voedsel" value="Rodebieten">
+        <label for="e"> Rodebieten</label><br>
+        <input type="checkbox" id="ee" name="voedsel" value="Aardappelen">
+        <label for="ee"> Aardappelen</label><br>
+        <input type="checkbox" id="eet" name="voedsel" value="Pizza">
+        <label for="eet">Pizza</label><br><br>
+        </div>
+    </section>
+</form>
+</body>
+</html>

@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://images4.alphacoders.com/934/thumb-1920-934289.png");
+}
+header{
+    background-color: black;
+    color: white;
+}
+nav{
+
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+li {
+    display: inline-block;
+    border: none;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
