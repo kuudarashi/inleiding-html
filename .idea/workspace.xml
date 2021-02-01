@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7c6e757-cc3f-48ce-97fe-e08f851cbe4d" name="Default Changelist" comment="op 2 af" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m6X3K6l3YX4mA2IZf2higAjnZO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Onyll\OneDrive\Documenten\GitHub\inleiding-html\K6" />
+      <recent name="C:\Users\Onyll\OneDrive\Documenten\GitHub\inleiding-html\K2" />
+      <recent name="C:\Users\Onyll\OneDrive\Documenten\GitHub\inleiding-html\K1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c6e757-cc3f-48ce-97fe-e08f851cbe4d" name="Default Changelist" comment="" />
+      <created>1608814813426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608814813426</updated>
+      <workItem from="1608814814578" duration="6715000" />
+      <workItem from="1609173646849" duration="3075000" />
+      <workItem from="1609367043634" duration="1091000" />
+      <workItem from="1609426418855" duration="1906000" />
+      <workItem from="1609603588557" duration="4429000" />
+      <workItem from="1609756033018" duration="665000" />
+      <workItem from="1610019844659" duration="1647000" />
+      <workItem from="1610355757799" duration="6462000" />
+      <workItem from="1610452721453" duration="4580000" />
+      <workItem from="1610978355568" duration="9249000" />
+      <workItem from="1611228990288" duration="11244000" />
+      <workItem from="1611573575174" duration="3609000" />
+      <workItem from="1611656173263" duration="17174000" />
+      <workItem from="1611685216121" duration="67000" />
+      <workItem from="1611757801460" duration="15144000" />
+      <workItem from="1611830140748" duration="2107000" />
+      <workItem from="1611832303575" duration="283000" />
+      <workItem from="1612126571647" duration="92000" />
+    </task>
+    <task id="LOCAL-00001" summary="op 1 af">
+      <created>1608815031446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608815031446</updated>
+    </task>
+    <task id="LOCAL-00002" summary="op 2 af">
+      <created>1608904630529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608904630529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="html af">
+      <created>1611831909873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611831909874</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bug fixes">
+      <created>1611832570304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611832570304</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="op 1 af" />
+    <MESSAGE value="op 2 af" />
+    <MESSAGE value="html af" />
+    <MESSAGE value="bug fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fixes" />
+  </component>
+</project>
