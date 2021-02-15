@@ -63,8 +63,7 @@ footer h3 {
         border: none;
     }
 
-    @media all and (min-width: 591px) {
-    }
+
     section#news {
         float: left;
         width: 40%;
@@ -76,7 +75,7 @@ footer h3 {
     }
 }
 
-@media all and  (min-width: 800px){
+@media all and  (min-width: 700px){
     section#news {
         float: left;
         width: 30%;

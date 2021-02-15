@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7c6e757-cc3f-48ce-97fe-e08f851cbe4d" name="Default Changelist" comment="op 2 af" />
+    <list default="true" id="a7c6e757-cc3f-48ce-97fe-e08f851cbe4d" name="Default Changelist" comment="op 2 af">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/K7/music.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +78,13 @@
       <workItem from="1611830140748" duration="2107000" />
       <workItem from="1611832303575" duration="283000" />
       <workItem from="1612126571647" duration="92000" />
+      <workItem from="1612182990222" duration="362000" />
+      <workItem from="1612294508573" duration="398000" />
+      <workItem from="1612294923042" duration="696000" />
+      <workItem from="1612299620779" duration="159000" />
+      <workItem from="1612387336272" duration="23000" />
+      <workItem from="1612441531297" duration="1342000" />
+      <workItem from="1613050579485" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="op 1 af">
       <created>1608815031446</created>
