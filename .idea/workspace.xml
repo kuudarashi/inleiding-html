@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a7c6e757-cc3f-48ce-97fe-e08f851cbe4d" name="Default Changelist" comment="op 2 af">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K7/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/K7/music.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../wamp64/www/PHP" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -85,6 +83,10 @@
       <workItem from="1612387336272" duration="23000" />
       <workItem from="1612441531297" duration="1342000" />
       <workItem from="1613050579485" duration="945000" />
+      <workItem from="1613396810338" duration="330000" />
+      <workItem from="1613397184124" duration="75000" />
+      <workItem from="1622554236317" duration="49000" />
+      <workItem from="1622554338658" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="op 1 af">
       <created>1608815031446</created>
@@ -114,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611832570304</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tweaks">
+      <created>1613397077666</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613397077666</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +147,7 @@
     <MESSAGE value="op 2 af" />
     <MESSAGE value="html af" />
     <MESSAGE value="bug fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fixes" />
+    <MESSAGE value="tweaks" />
+    <option name="LAST_COMMIT_MESSAGE" value="tweaks" />
   </component>
 </project>
